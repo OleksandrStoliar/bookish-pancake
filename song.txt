@@ -1,4 +1,2 @@
 This is some text
 This is the secont line of some text
-
---------------------------------------
